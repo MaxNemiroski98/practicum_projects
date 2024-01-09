@@ -6,3 +6,4 @@
 | [Мобильное приложение](mobile_app_project) | Изучение воронки продаж и проведение A/A/B теста по замене шрифта во всём приложении по данным мобильного приложения стартапа, который продаёт продукты питания | *pandas*, *matplotlib*, *numpy*, *scipy.stats*, *seaborn* |
 | [Банк](bank_project) | Выявление максимально отточных сегментов пользователей банка | *pandas*, *matplotlib*, *numpy*, *scipy.stats*, *seaborn*, *phik*|
 | [Квартиры](apartments_project) | Исследование объявлений о продаже квартир| *pandas*, *matplotlib*, *numpy*, *re*|
+| [Аренда самокатов](scooter_project) | Анализ данных и проверка гипотез, способных помочь бизнесу аренды самокатов вырасти | *pandas*, *matplotlib*, *numpy*, *scipy.stats*|
