@@ -35,3 +35,4 @@
 
 ## Используемые библиотеки
 
+pandas, matplotlib, seaborn, json, folium.
