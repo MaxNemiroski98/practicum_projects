@@ -7,4 +7,4 @@
 | [Банк](bank_project) | Выявление максимально отточных сегментов пользователей банка | *pandas*, *matplotlib*, *numpy*, *scipy.stats*, *seaborn*, *phik*|
 | [Квартиры](apartments_project) | Исследование объявлений о продаже квартир| *pandas*, *matplotlib*, *numpy*, *re*|
 | [Аренда самокатов](scooter_project) | Анализ данных и проверка гипотез, способных помочь бизнесу аренды самокатов вырасти | *pandas*, *matplotlib*, *numpy*, *scipy.stats*|
-| [Развлекательное мобильное приложение](entertainment_app_project) | Анализ данных и проверка гипотез, способных помочь бизнесу аренды самокатов вырасти | *pandas*, *matplotlib*, *numpy*|
+| [Развлекательное мобильное приложение](entertainment_app_project) | Юнит-экономика и когортный анализ данных развлекательного приложения | *pandas*, *matplotlib*, *numpy*|
