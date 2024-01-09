@@ -8,3 +8,4 @@
 | [Квартиры](apartments_project) | Исследование объявлений о продаже квартир| *pandas*, *matplotlib*, *numpy*, *re*|
 | [Аренда самокатов](scooter_project) | Анализ данных и проверка гипотез, способных помочь бизнесу аренды самокатов вырасти | *pandas*, *matplotlib*, *numpy*, *scipy.stats*|
 | [Развлекательное мобильное приложение](entertainment_app_project) | Юнит-экономика и когортный анализ данных развлекательного приложения | *pandas*, *matplotlib*, *numpy*|
+| [Онлайн-магазин](online_store_project) |  | *pandas*, *matplotlib*, *numpy*, *scipy.stats*|
